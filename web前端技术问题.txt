@@ -1,0 +1,8 @@
+1、angular为什么要依赖注入，依赖注入的原理
+2、xss攻击
+3、js自定义事件
+4、js怎么判断数组类型
+5、打开一个网页浏览器做了什么
+6、js执行机制,会先执行promise 还是setTimeout
+7、js的继承
+8、js对于传递数据的encoding
